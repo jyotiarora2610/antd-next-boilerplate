@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 [![Deploy to now](https://deploy.now.sh/static/button.svg)](https://deploy.now.sh/?repo=https://github.com/zeit/next.js/tree/master/examples/with-ant-design)
 
 # Ant Design example
@@ -40,6 +39,3 @@ now
 ## The idea behind the example
 
 This example shows how to use Next.js along with [Ant Design of React](http://ant.design). This is intended to show the integration of this UI toolkit with the Framework.
-=======
-# antd-next_app
->>>>>>> 5bceb0b46629a623fd7ef2b90c902e3d2ac7bb65
